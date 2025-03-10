@@ -1,0 +1,11 @@
+[General]
+ColorScheme=BreezeLight
+
+[Icons]
+Theme=breeze
+
+[KDE]
+LookAndFeelPackage=org.kde.breeze.desktop
+ShowDeleteCommand=true
+SingleClick=false
+widgetStyle=Breeze
