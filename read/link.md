@@ -34,6 +34,7 @@ has_children: false
 ## Garuda Linux / Download / Location
 
 * SourceForge / Garuda Linux / [files](https://sourceforge.net/projects/garuda-linux/files/)
+* [Garuda Linux ISO Builds](https://iso.builds.garudalinux.org/iso/)
 
 
 
