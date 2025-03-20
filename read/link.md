@@ -21,12 +21,15 @@ has_children: false
 
 ## Garuda Linux / Edition
 
-| Garuda Linux Edition |
+> Garuda / [Downloads](https://garudalinux.org/editions)
+
+| Garuda Linux Edition / Settings |
 | ---- |
-| [Garuda Mokka](https://garudalinux.org/installation?edition=mokka) |
-| [Garuda KDE Lite](https://garudalinux.org/installation?edition=kde-lite) |
-| [Garuda Dr460nized](https://garudalinux.org/installation?edition=dr460nized) |
-| [Garuda Dr460nized Gaming](https://garudalinux.org/installation?edition=dr460nized-gaming) |
+| [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
+| [Garuda Mokka](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-mokka) |
+| Garuda KDE Lite |
+| [Garuda Dr460nized](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-dr460nized) |
+| Garuda Dr460nized Gaming](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-dr460nized) |
 
 
 
