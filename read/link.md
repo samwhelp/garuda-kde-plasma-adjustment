@@ -29,7 +29,7 @@ has_children: false
 | [Garuda Mokka](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-mokka) |
 | Garuda KDE Lite |
 | [Garuda Dr460nized](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-dr460nized) |
-| Garuda Dr460nized Gaming](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-dr460nized) |
+| [Garuda Dr460nized Gaming](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-dr460nized) |
 
 
 
