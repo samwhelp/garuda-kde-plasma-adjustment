@@ -21,8 +21,6 @@ has_children: false
 
 ## Garuda Linux / Edition
 
-> Garuda / [Downloads](https://garudalinux.org/editions)
-
 | Garuda Linux Edition / Settings |
 | ---- |
 | [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
