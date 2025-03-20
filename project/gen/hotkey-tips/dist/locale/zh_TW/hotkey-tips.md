@@ -1,0 +1,61 @@
+
+
+# Garuda Kde Plasma 按鍵綁定
+
+
+## 快捷鍵
+
+| 按鍵綁定 |	執行動作 |
+| ------- | ------ |
+| `Alt + Shift + o` | 開啟熱鍵提示 |
+| `Alt + Shift + x` | 登出 |
+| `Alt + Shift + z` | 離開 |
+| `Alt + F1` | 開啟主選單 |
+| `Alt + F2` | 開啟應用程式啟動器 |
+| `Alt + Shift + d` | 開啟 Rofi Drun |
+| `Alt + Shift + r` | 開啟 Rofi Run |
+| `Alt + Shift + w` | 開啟 Rofi Window |
+| `Alt + Shift + f` | 開啟檔案管理器 (dolphin) |
+| `Alt + Shift + g` | 開啟檔案管理器 (pcmanfm-qt) |
+| `Alt + Shift + e` | 開啟 (kate) |
+| `Alt + Shift + b` | 開啟網頁瀏覽器 (firedragon) |
+| `Alt + Shift + s` | 開啟系統設定 (systemsettings) |
+| `Alt + Enter` | 開啟 Terminal (konsole) |
+| `Alt + Shift + a` | 開啟 Terminal (konsole) |
+| `Alt + Ctrl + a` | 開啟 Terminal (sakura) |
+| `Alt + Shift + t` | 開啟 Terminal (konsole) |
+| `Alt + Ctrl + t` | 開啟 Terminal (konsole) |
+| `Win + q` | 視窗 / 關閉 |
+| `Win + f` | 視窗 / 切換全螢幕 |
+| `Win + m` | 視窗 / 最大化 |
+| `Win + d` | 切換顯示桌面 |
+| `Win + e` | 視窗 / 開始移動 |
+| `Win + r` | 視窗 / 開始更改大小 |
+| `Win + Esc` | 聚焦切換至上一個視窗 |
+| `Alt + Esc` | 聚焦切換至下一個視窗 |
+| `Win + grave` | 切換到所有工作空間概覽 |
+| `Win + Tab` | 切換到所有視窗概覽 |
+| `Win + 滑鼠左鍵拖曳` | 視窗 / 移動 |
+| `Win + 滑鼠右拖曳` | 視窗 / 更改大小 |
+| `Win + a` | 聚焦切換至上一個視窗 |
+| `Win + s` | 聚焦切換至下一個視窗 |
+| `Alt + a` | 切換至上一個工作空間 |
+| `Alt + s` | 切換至下一個工作空間 |
+| `Alt + Ctrl + 1-9` | 切換至工作空間 1-9 |
+| `Alt + Shift + 1-9` | 將視窗移至工作空間 1-9 |
+| `Print` | 螢幕截圖 |
+| `Win + Print` | 螢幕截圖 / 目前聚焦的視窗 |
+| `Ctrl + Print` | 螢幕截圖 / 選取的區域 |
+| `Fn + F5 (XF86MonBrightnessDown)` | 亮度 / 減弱 |
+| `Fn + F6 (XF86MonBrightnessUp)` | 亮度 / 增強 |
+| `Alt + Shift + [` | 亮度 / 減弱 |
+| `Alt + Shift + ]` | 亮度 / 增強 |
+| `Alt + Shift + v` | 開啟音量控制器 (pavucontrol) |
+| `Fn + F10 (XF86AudioMute)` | 音量 / 切換靜音 |
+| `Fn + F11 (XF86AudioLowerVolume)` | 音量 / 減小 |
+| `Fn + F12 (XF86AudioRaiseVolume)` | 音量 / 增大 |
+| `Alt + m` | 音量 / 切換靜音 |
+| `Alt + Shift + ,` | 音量 / 減小 |
+| `Alt + Shift + .` | 音量 / 增大 |
+| `Alt + Ctrl + ,` | 音量 / 小幅減小 |
+| `Alt + Ctrl + .` | 音量 / 小幅增大 |
