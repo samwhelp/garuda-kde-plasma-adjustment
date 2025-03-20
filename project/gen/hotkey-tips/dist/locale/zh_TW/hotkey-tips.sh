@@ -43,7 +43,7 @@ yad --width=1000 --height=600 \
 "Win + grave" "切換到所有工作空間概覽" "#ffffff" "Monospace 16" \
 "Win + Tab" "切換到所有視窗概覽" "#cccccc" "Monospace 16" \
 "Win + 滑鼠左鍵拖曳" "視窗 / 移動" "#ffffff" "Monospace 16" \
-"Win + 滑鼠右拖曳" "視窗 / 更改大小" "#cccccc" "Monospace 16" \
+"Win + 滑鼠右鍵拖曳" "視窗 / 更改大小" "#cccccc" "Monospace 16" \
 "Win + a" "聚焦切換至上一個視窗" "#ffffff" "Monospace 16" \
 "Win + s" "聚焦切換至下一個視窗" "#cccccc" "Monospace 16" \
 "Alt + a" "切換至上一個工作空間" "#ffffff" "Monospace 16" \

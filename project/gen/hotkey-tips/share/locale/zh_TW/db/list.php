@@ -179,7 +179,7 @@
 	$list[] = $item;
 
 	$item = array();
-	$item['Keybind'] = "Win + 滑鼠右拖曳";
+	$item['Keybind'] = "Win + 滑鼠右鍵拖曳";
 	$item['Action'] = "視窗 / 更改大小";
 	$list[] = $item;
 
