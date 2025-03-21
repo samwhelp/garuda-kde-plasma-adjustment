@@ -142,7 +142,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Win + x";
-	$item['Action'] = "Window / Minimize";
+	$item['Action'] = "Window Minimize";
 	$list[] = $item;
 
 	$item = array();
@@ -162,42 +162,42 @@
 
 	$item = array();
 	$item['Keybind'] = "Win + t";
-	$item['Action'] = "Window / Always on Top";
+	$item['Action'] = "Window Always on Top";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + b";
-	$item['Action'] = "Window / Always on Bottom";
+	$item['Action'] = "Window Always on Bottom";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + y";
-	$item['Action'] = "Window / Toggle Shade";
+	$item['Action'] = "Window Toggle Shade";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + n";
-	$item['Action'] = "Window / Toggle Show or Hide Decoration";
+	$item['Action'] = "Window Toggle Show or Hide Decoration";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + z";
-	$item['Action'] = "Window / Toggle Raise or Lower";
+	$item['Action'] = "Window Toggle Raise or Lower";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + m";
-	$item['Action'] = "Window / Move Center";
+	$item['Action'] = "Window Move Center";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + ;";
-	$item['Action'] = "Window / Decrease Opacity";
+	$item['Action'] = "Window Decrease Opacity";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + '";
-	$item['Action'] = "Window / Increase Opacity";
+	$item['Action'] = "Window Increase Opacity";
 	$list[] = $item;
 
 	$item = array();
