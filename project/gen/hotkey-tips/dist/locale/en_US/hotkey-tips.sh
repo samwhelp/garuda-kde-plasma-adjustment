@@ -34,18 +34,18 @@ yad --width=1000 --height=600 \
 "Win + q" "Window Close" "#cccccc" "Monospace 16" \
 "Win + f" "Window Fullscreen" "#ffffff" "Monospace 16" \
 "Win + w" "Window Maximize" "#cccccc" "Monospace 16" \
-"Win + x" "Window / Minimize" "#ffffff" "Monospace 16" \
+"Win + x" "Window Minimize" "#ffffff" "Monospace 16" \
 "Win + d" "Toggle Show Desktop" "#cccccc" "Monospace 16" \
 "Win + e" "Window Begin Move" "#ffffff" "Monospace 16" \
 "Win + r" "Window Begin Resize" "#cccccc" "Monospace 16" \
-"Win + t" "Window / Always on Top" "#ffffff" "Monospace 16" \
-"Win + b" "Window / Always on Bottom" "#cccccc" "Monospace 16" \
-"Win + y" "Window / Toggle Shade" "#ffffff" "Monospace 16" \
-"Win + n" "Window / Toggle Show or Hide Decoration" "#cccccc" "Monospace 16" \
-"Win + z" "Window / Toggle Raise or Lower" "#ffffff" "Monospace 16" \
-"Win + m" "Window / Move Center" "#cccccc" "Monospace 16" \
-"Win + ;" "Window / Decrease Opacity" "#ffffff" "Monospace 16" \
-"Win + '" "Window / Increase Opacity" "#cccccc" "Monospace 16" \
+"Win + t" "Window Always on Top" "#ffffff" "Monospace 16" \
+"Win + b" "Window Always on Bottom" "#cccccc" "Monospace 16" \
+"Win + y" "Window Toggle Shade" "#ffffff" "Monospace 16" \
+"Win + n" "Window Toggle Show or Hide Decoration" "#cccccc" "Monospace 16" \
+"Win + z" "Window Toggle Raise or Lower" "#ffffff" "Monospace 16" \
+"Win + m" "Window Move Center" "#cccccc" "Monospace 16" \
+"Win + ;" "Window Decrease Opacity" "#ffffff" "Monospace 16" \
+"Win + '" "Window Increase Opacity" "#cccccc" "Monospace 16" \
 "Win + Esc" "Window Switch Previous" "#ffffff" "Monospace 16" \
 "Alt + Esc" "Window Switch Next" "#cccccc" "Monospace 16" \
 "Win + grave" "Overview (Workspace List)" "#ffffff" "Monospace 16" \

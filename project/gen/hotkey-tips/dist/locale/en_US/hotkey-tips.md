@@ -27,18 +27,18 @@
 | `Win + q` | Window Close |
 | `Win + f` | Window Fullscreen |
 | `Win + w` | Window Maximize |
-| `Win + x` | Window / Minimize |
+| `Win + x` | Window Minimize |
 | `Win + d` | Toggle Show Desktop |
 | `Win + e` | Window Begin Move |
 | `Win + r` | Window Begin Resize |
-| `Win + t` | Window / Always on Top |
-| `Win + b` | Window / Always on Bottom |
-| `Win + y` | Window / Toggle Shade |
-| `Win + n` | Window / Toggle Show or Hide Decoration |
-| `Win + z` | Window / Toggle Raise or Lower |
-| `Win + m` | Window / Move Center |
-| `Win + ;` | Window / Decrease Opacity |
-| `Win + '` | Window / Increase Opacity |
+| `Win + t` | Window Always on Top |
+| `Win + b` | Window Always on Bottom |
+| `Win + y` | Window Toggle Shade |
+| `Win + n` | Window Toggle Show or Hide Decoration |
+| `Win + z` | Window Toggle Raise or Lower |
+| `Win + m` | Window Move Center |
+| `Win + ;` | Window Decrease Opacity |
+| `Win + '` | Window Increase Opacity |
 | `Win + Esc` | Window Switch Previous |
 | `Alt + Esc` | Window Switch Next |
 | `Win + grave` | Overview (Workspace List) |
