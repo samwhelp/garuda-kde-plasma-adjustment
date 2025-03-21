@@ -7,7 +7,6 @@
 
 | Keybind |	Action |
 | ------- | ------ |
-| `Alt + Shift + o` | Open this cheatsheet |
 | `Alt + Shift + x` | Logout |
 | `Alt + Shift + z` | Leave |
 | `Alt + F1` | Main Menu |

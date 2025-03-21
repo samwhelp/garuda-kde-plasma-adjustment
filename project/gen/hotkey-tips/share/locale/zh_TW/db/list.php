@@ -5,10 +5,12 @@
 
 
 
+/*
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + o";
 	$item['Action'] = "開啟熱鍵提示";
 	$list[] = $item;
+*/
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + x";
