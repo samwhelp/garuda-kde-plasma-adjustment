@@ -141,6 +141,11 @@
 	$list[] = $item;
 
 	$item = array();
+	$item['Keybind'] = "Win + x";
+	$item['Action'] = "視窗 / 最小化";
+	$list[] = $item;
+
+	$item = array();
 	$item['Keybind'] = "Win + d";
 	$item['Action'] = "切換顯示桌面";
 	$list[] = $item;
@@ -158,6 +163,46 @@
 	$item = array();
 	$item['Keybind'] = "Win + Esc";
 	$item['Action'] = "聚焦切換至上一個視窗";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + t";
+	$item['Action'] = "視窗 / 保持永遠在最上方";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + b";
+	$item['Action'] = "視窗 / 保持永遠在最下方";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + y";
+	$item['Action'] = "視窗 / 內容區塊收合";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + n";
+	$item['Action'] = "視窗 / 切換顯示隱藏視窗裝飾";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + z";
+	$item['Action'] = "將下方視窗移上來";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + m";
+	$item['Action'] = "視窗 / 移動至畫面中央部位";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + ;";
+	$item['Action'] = "視窗 / 更加透明";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + '";
+	$item['Action'] = "視窗 / 更不透明";
 	$list[] = $item;
 
 	$item = array();
