@@ -33,7 +33,7 @@ yad --width=1000 --height=600 \
 "Alt + Ctrl + t" "Launch Terminal (konsole)" "#ffffff" "Monospace 16" \
 "Win + q" "Window Close" "#cccccc" "Monospace 16" \
 "Win + f" "Window Fullscreen" "#ffffff" "Monospace 16" \
-"Win + m" "Window Maximize" "#cccccc" "Monospace 16" \
+"Win + w" "Window Maximize" "#cccccc" "Monospace 16" \
 "Win + x" "Window / Minimize" "#ffffff" "Monospace 16" \
 "Win + d" "Toggle Show Desktop" "#cccccc" "Monospace 16" \
 "Win + e" "Window Begin Move" "#ffffff" "Monospace 16" \

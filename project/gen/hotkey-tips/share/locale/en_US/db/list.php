@@ -136,7 +136,7 @@
 	$list[] = $item;
 
 	$item = array();
-	$item['Keybind'] = "Win + m";
+	$item['Keybind'] = "Win + w";
 	$item['Action'] = "Window Maximize";
 	$list[] = $item;
 

@@ -26,7 +26,7 @@
 | `Alt + Ctrl + t` | 開啟 Terminal (konsole) |
 | `Win + q` | 視窗 / 關閉 |
 | `Win + f` | 視窗 / 切換全螢幕 |
-| `Win + m` | 視窗 / 最大化 |
+| `Win + w` | 視窗 / 最大化 |
 | `Win + x` | 視窗 / 最小化 |
 | `Win + d` | 切換顯示桌面 |
 | `Win + e` | 視窗 / 開始移動 |

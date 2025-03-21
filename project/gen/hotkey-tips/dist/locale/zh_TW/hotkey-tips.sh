@@ -33,7 +33,7 @@ yad --width=1000 --height=600 \
 "Alt + Ctrl + t" "開啟 Terminal (konsole)" "#ffffff" "Monospace 16" \
 "Win + q" "視窗 / 關閉" "#cccccc" "Monospace 16" \
 "Win + f" "視窗 / 切換全螢幕" "#ffffff" "Monospace 16" \
-"Win + m" "視窗 / 最大化" "#cccccc" "Monospace 16" \
+"Win + w" "視窗 / 最大化" "#cccccc" "Monospace 16" \
 "Win + x" "視窗 / 最小化" "#ffffff" "Monospace 16" \
 "Win + d" "切換顯示桌面" "#cccccc" "Monospace 16" \
 "Win + e" "視窗 / 開始移動" "#ffffff" "Monospace 16" \

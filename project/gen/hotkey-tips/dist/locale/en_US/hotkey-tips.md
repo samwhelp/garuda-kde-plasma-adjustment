@@ -26,7 +26,7 @@
 | `Alt + Ctrl + t` | Launch Terminal (konsole) |
 | `Win + q` | Window Close |
 | `Win + f` | Window Fullscreen |
-| `Win + m` | Window Maximize |
+| `Win + w` | Window Maximize |
 | `Win + x` | Window / Minimize |
 | `Win + d` | Toggle Show Desktop |
 | `Win + e` | Window Begin Move |
