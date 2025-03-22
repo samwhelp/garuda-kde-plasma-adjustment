@@ -42,6 +42,13 @@ gen-tsv:
 
 
 
+sync:
+	cp -rfT tmp/locale dist/locale
+.PHONY: sync
+
+
+
+
 archlinux-prepare:
 	sudo pacman -Sy --needed php
 .PHONY: archlinux-prepare
