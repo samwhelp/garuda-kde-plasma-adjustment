@@ -122,7 +122,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Ctrl + t";
-	$item['Action'] = "Launch Terminal (konsole)";
+	$item['Action'] = "Launch Terminal (sakura)";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Alt + Ctrl + y";
+	$item['Action'] = "Launch DropDown Terminal (yakuake)";
 	$list[] = $item;
 
 	$item = array();

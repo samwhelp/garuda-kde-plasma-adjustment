@@ -23,7 +23,8 @@
 | `Alt + Shift + a` | Launch Terminal (konsole) |
 | `Alt + Ctrl + a` | Launch Terminal (sakura) |
 | `Alt + Shift + t` | Launch Terminal (konsole) |
-| `Alt + Ctrl + t` | Launch Terminal (konsole) |
+| `Alt + Ctrl + t` | Launch Terminal (sakura) |
+| `Alt + Ctrl + y` | Launch DropDown Terminal (yakuake) |
 | `Win + q` | Window Close |
 | `Win + f` | Window Fullscreen |
 | `Win + w` | Window Maximize |
