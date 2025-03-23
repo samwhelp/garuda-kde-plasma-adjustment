@@ -42,7 +42,7 @@ gen-tsv:
 
 
 
-sync:
+sync: all
 	cp -rfT tmp/locale dist/locale
 .PHONY: sync
 
